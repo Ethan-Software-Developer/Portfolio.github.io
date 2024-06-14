@@ -281,7 +281,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("/assets/img/stock.jpg") top right no-repeat;
+  background: url("/ezgif-3-8e88cbb5e2.gif") center no-repeat;
   background-size: cover;
   position: relative;
 }
@@ -306,11 +306,11 @@ h6 {
   font-size: 64px;
   font-weight: 700;
   line-height: 56px;
-  color: #000;
+  color: #eee;
 }
 
 #hero p {
-  color: #000;
+  color: #eee;
   margin: 15px 0 0 0;
   font-size: 26px;
   font-family: "Poppins", sans-serif;
@@ -700,7 +700,7 @@ section {
 
 .portfolio .portfolio-wrap .portfolio-info p {
   color: #fff;
-  font-size: 14px;  
+  font-size: 14px;
   text-transform: uppercase;
   padding: 0;
   margin: 0;
