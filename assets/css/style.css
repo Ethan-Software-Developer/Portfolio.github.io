@@ -365,6 +365,7 @@ h3 {
   #hero h1 {
     font-size: 32px;
     line-height: 36px;
+    opacity: 1;
   }
 
   #hero p {
