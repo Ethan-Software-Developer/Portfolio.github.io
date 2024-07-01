@@ -13,6 +13,8 @@
 * {
   scrollbar-color: blue #e7e5e4;
   scrollbar-width: thin;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 16px;
 }
 
 body {
